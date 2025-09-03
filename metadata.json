@@ -1,0 +1,7 @@
+{
+  "name": "Krishi Mitra AI",
+  "description": "A comprehensive project proposal and UI/UX demo for an AI-powered advisory system designed to support Indian farmers. This application showcases the problem analysis, core features, AI integration, workflow, tech stack, and long-term impact of the proposed system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
